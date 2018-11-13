@@ -1,7 +1,7 @@
 package require
 
 import (
-	assert "github.com/gostores/assert"
+	assert "github.com/govenue/assert"
 	http "net/http"
 	url "net/url"
 	time "time"
